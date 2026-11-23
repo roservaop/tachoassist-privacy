@@ -1,0 +1,32 @@
+{
+  "currency": "lei",
+  "orderUrl": "",
+  "products": [
+    {
+      "id": "reader_usbc",
+      "icon": "💳",
+      "color": "#2563eb",
+      "price": null,
+      "priceText": { "ro": "La cerere (aprox. 400 lei, transport inclus)", "en": "On request (approx. 400 lei incl. delivery)" },
+      "oldPrice": null,
+      "stock": true,
+      "visible": true,
+      "url": "",
+      "name": { "ro": "Cititor card tahograf ACS PocketMate II (USB-C)", "en": "ACS PocketMate II tachograph card reader (USB-C)" },
+      "desc": { "ro": "Se conectează direct la telefon · compatibil cu toate cardurile de tahograf", "en": "Plugs straight into the phone · works with all tachograph cards" }
+    },
+    {
+      "id": "otg",
+      "icon": "🔌",
+      "color": "#64748b",
+      "price": null,
+      "priceText": { "ro": "La cerere", "en": "On request" },
+      "oldPrice": null,
+      "stock": true,
+      "visible": true,
+      "url": "",
+      "name": { "ro": "Adaptor OTG USB-C → USB-A", "en": "OTG adapter USB-C → USB-A" },
+      "desc": { "ro": "Pentru cititoarele cu mufă USB normală", "en": "For readers with a standard USB plug" }
+    }
+  ]
+}
